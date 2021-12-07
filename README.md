@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<b> Qtile + Raspberry Pi OS :)
+  <b> Qtile + Raspberry Pi OS :) </b>
 </p>
 
 ## Installation
