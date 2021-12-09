@@ -37,5 +37,16 @@ git clone https://github.com/techcoder20/qpi-os ~/qpi-os
 Coming Soon
 </details>
 
+## Screenshots
+![Desktop](https://raw.githubusercontent.com/techcoder20/qpi-os/main/Screenshots/Desktop.png)
+
+![TiledWindows](https://raw.githubusercontent.com/techcoder20/qpi-os/main/Screenshots/Tiled%20Windows.png)
+
+![StartshipPrompAndUfetch](https://raw.githubusercontent.com/techcoder20/qpi-os/main/Screenshots/StarshipPromptAndUfetch.png)
+
+![Ulauncher](https://raw.githubusercontent.com/techcoder20/qpi-os/main/Screenshots/Ulauncher.png)
+
+![Pi-Apps](https://raw.githubusercontent.com/techcoder20/qpi-os/main/Screenshots/Pi-Apps.png)
+
 
 ## THIS IS A WORK IN PROGRESS !!
