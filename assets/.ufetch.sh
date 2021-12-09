@@ -44,7 +44,7 @@ elif [ -n "${XDG_SESSION_TYPE}" ]; then
 	ui="${XDG_SESSION_TYPE}"
 fi
 
-ui="$(basename "${ui}")"
+ui="$(basename Qtile)"
 
 ## DEFINE COLORS
 
